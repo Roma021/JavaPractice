@@ -26,15 +26,15 @@ public class New {
       //  int secondsInYear = daysInYear * hoursInDay * minutesInHour * secondsInMinute;
       //  System.out.println("There are " + secondsInYear + " seconds in a year.");
 
-        int x = 73457;
-        int y = 12888;
-        int sum = x+y;
-        System.out.println(x + " + " + y + " = " + sum);
+      //  int x = 73457;
+      //  int y = 12888;
+       // int sum = x+y;
+      //  System.out.println(x + " + " + y + " = " + sum);
 
-        int a = 2;
-        int b = 8;
-        int sumB = a * b;
-        System.out.println(a + " * " + b + " = " + sumB);
+       // int a = 2;
+       // int b = 8;
+       // int sumB = a * b;
+       // System.out.println(a + " * " + b + " = " + sumB);
 
 
 
